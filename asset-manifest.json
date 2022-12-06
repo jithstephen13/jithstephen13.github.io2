@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.69f9ba91.css",
-    "main.js": "/static/js/main.cbd56403.js",
+    "main.css": "/static/css/main.52aa2f43.css",
+    "main.js": "/static/js/main.4848e6f4.js",
     "static/media/profile-image.JPG": "/static/media/profile-image.743b99970bf1a3ca16ba.JPG",
     "static/media/cricinfo.png": "/static/media/cricinfo.c3cfeea5eb3abb405aa8.png",
     "static/media/Rentmojo.png": "/static/media/Rentmojo.57b8c600f29c400ea503.png",
@@ -9,15 +9,16 @@
     "static/media/pharmeasy.png": "/static/media/pharmeasy.eef9dbfc810e3befb002.png",
     "static/media/instagram.png": "/static/media/instagram.80e598d8df0c0a94d580.png",
     "static/media/man-developing-website-on-desk.png": "/static/media/man-developing-website-on-desk.85045063fdc0424d0086.png",
+    "static/media/jithlogo.png": "/static/media/jithlogo.67171ca21e0f39829edf.png",
     "static/media/brush.png": "/static/media/brush.85c9bab5ba2d7dcae1e3.png",
     "static/media/github.png": "/static/media/github.69ffd9cd5a846c976177.png",
     "static/media/linkedin.png": "/static/media/linkedin.701287495bb953a840f4.png",
     "index.html": "/index.html",
-    "main.69f9ba91.css.map": "/static/css/main.69f9ba91.css.map",
-    "main.cbd56403.js.map": "/static/js/main.cbd56403.js.map"
+    "main.52aa2f43.css.map": "/static/css/main.52aa2f43.css.map",
+    "main.4848e6f4.js.map": "/static/js/main.4848e6f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.69f9ba91.css",
-    "static/js/main.cbd56403.js"
+    "static/css/main.52aa2f43.css",
+    "static/js/main.4848e6f4.js"
   ]
 }
