@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8988910c.css",
-    "main.js": "/static/js/main.7183a99b.js",
+    "main.css": "/static/css/main.0639e638.css",
+    "main.js": "/static/js/main.e6ed0507.js",
     "static/media/profile-image.JPG": "/static/media/profile-image.743b99970bf1a3ca16ba.JPG",
     "static/media/cricinfo.png": "/static/media/cricinfo.c3cfeea5eb3abb405aa8.png",
     "static/media/Rentmojo.png": "/static/media/Rentmojo.57b8c600f29c400ea503.png",
@@ -14,11 +14,11 @@
     "static/media/github.png": "/static/media/github.69ffd9cd5a846c976177.png",
     "static/media/linkedin.png": "/static/media/linkedin.701287495bb953a840f4.png",
     "index.html": "/index.html",
-    "main.8988910c.css.map": "/static/css/main.8988910c.css.map",
-    "main.7183a99b.js.map": "/static/js/main.7183a99b.js.map"
+    "main.0639e638.css.map": "/static/css/main.0639e638.css.map",
+    "main.e6ed0507.js.map": "/static/js/main.e6ed0507.js.map"
   },
   "entrypoints": [
-    "static/css/main.8988910c.css",
-    "static/js/main.7183a99b.js"
+    "static/css/main.0639e638.css",
+    "static/js/main.e6ed0507.js"
   ]
 }
