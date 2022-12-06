@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.0639e638.css",
-    "main.js": "/static/js/main.e6ed0507.js",
+    "main.css": "/static/css/main.b5f4e79e.css",
+    "main.js": "/static/js/main.c15d49f9.js",
     "static/media/profile-image.JPG": "/static/media/profile-image.743b99970bf1a3ca16ba.JPG",
     "static/media/cricinfo.png": "/static/media/cricinfo.c3cfeea5eb3abb405aa8.png",
     "static/media/Rentmojo.png": "/static/media/Rentmojo.57b8c600f29c400ea503.png",
     "static/media/IndianExpress.png": "/static/media/IndianExpress.22672b50742ebd857861.png",
     "static/media/pharmeasy.png": "/static/media/pharmeasy.eef9dbfc810e3befb002.png",
+    "static/media/Jith_ Stephen_Resume.pdf": "/static/media/Jith_ Stephen_Resume.0dbdb17abad1afb060a2.pdf",
     "static/media/instagram.png": "/static/media/instagram.80e598d8df0c0a94d580.png",
     "static/media/man-developing-website-on-desk.png": "/static/media/man-developing-website-on-desk.85045063fdc0424d0086.png",
     "static/media/jithlogo.png": "/static/media/jithlogo.67171ca21e0f39829edf.png",
@@ -14,11 +15,11 @@
     "static/media/github.png": "/static/media/github.69ffd9cd5a846c976177.png",
     "static/media/linkedin.png": "/static/media/linkedin.701287495bb953a840f4.png",
     "index.html": "/index.html",
-    "main.0639e638.css.map": "/static/css/main.0639e638.css.map",
-    "main.e6ed0507.js.map": "/static/js/main.e6ed0507.js.map"
+    "main.b5f4e79e.css.map": "/static/css/main.b5f4e79e.css.map",
+    "main.c15d49f9.js.map": "/static/js/main.c15d49f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.0639e638.css",
-    "static/js/main.e6ed0507.js"
+    "static/css/main.b5f4e79e.css",
+    "static/js/main.c15d49f9.js"
   ]
 }
